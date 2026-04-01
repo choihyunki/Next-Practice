@@ -58,7 +58,7 @@ src/
  ├─components/       # UI 컴포넌트 (ThemeStatus, ClientWrapper 등)
  ├─lib/              # Mock Data 및 비동기 페칭 로직
  └─globals.css       # Tailwind v4 설정 및 레이어 관리
-
+```
 
 🖥️ How to Run
 
